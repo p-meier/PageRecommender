@@ -5,7 +5,7 @@ This is the code from this blog-post: [Build your own page recommendation engine
 ##How to setup?
 
 ###IDE
-Simply import this as a maven-project. I used IntelliJ IDEA to build this.
+Simply import this as a maven-project and setup Scala for this project! I used IntelliJ IDEA to build this.
 
 ###deliciousfeeds4J
 This library isn't in central maven. You have to do a ``git clone`` and a ``maven install`` for this to work.
